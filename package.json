@@ -1,0 +1,14 @@
+{
+    "name": "biased_scala",
+    "version": "1.0.0",
+    "description": "biased_scala build file",
+    "scripts": {
+      "dev": "npx gem-book docs -t 'Biased Scala' -i logo.png --footer 'https://afoo.me' --plugin raw --nav '博客(Blog),https://afoo.me' --nav Twitter,https://x.com/fujohnwang --nav Youtube,https://youtube.com/@afoo --nav Github,https://github.com/fujohnwang --nav 'Simple Honojs,https://honojs.afoo.me' ",
+      "build": "npm run dev -- --build"
+    },
+    "author": "AFOO",
+    "license": "AFOO.ME ONLY",
+    "dependencies": {
+      "gem-book": "1.5.34"
+    }
+  }
