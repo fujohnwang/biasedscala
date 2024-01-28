@@ -4,7 +4,7 @@ title: Why I chose Scala
 
 I have been writing Scala code for many years, since sbt 0.11.x days.  
 
-I checked [a project](https://github.com/fujohnwang/hs2client) that I open sourced many years ago when I was working at Alibaba, it tells me that it was 11 years ago. 
+When(@2024) I checked [a project](https://github.com/fujohnwang/hs2client) that I open sourced many years ago when I was working at Alibaba, it tells me that it was 14 years ago. 
 
 What time flies...
 
