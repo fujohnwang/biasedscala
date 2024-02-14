@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "biased_scala build file",
     "scripts": {
-      "dev": "npx gem-book docs -t 'Biased Scala' -i logo.png --footer 'https://afoo.me' --plugin raw --nav '博客(Blog),https://afoo.me' --nav Twitter,https://x.com/fujohnwang --nav Youtube,https://youtube.com/@afoo --nav Github,https://github.com/fujohnwang --nav 'Simple Honojs,https://honojs.afoo.me' ",
+      "dev": "npx gem-book docs -t 'Biased Scala' -i logo.png --footer 'https://afoo.me' --plugin raw --nav '博客(Blog),https://afoo.me' --nav Twitter,https://x.com/fujohnwang --nav Youtube,https://youtube.com/@afoo --nav Github,https://github.com/fujohnwang --nav 'Simple Honojs,https://honojs.afoo.me' --nav '福店,https://store.afoo.me' ",
       "build": "npm run dev -- --build"
     },
     "author": "AFOO",
